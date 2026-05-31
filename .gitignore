@@ -1,0 +1,44 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider / OS files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity crash and profiling output
+sysinfo.txt
+*.stackdump
+*.trace
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+*.xcarchive
+
+# Local MCP server checkout/cache. The Unity package itself is tracked under Packages/.
+Tools/
+
+# Keep Packages, ProjectSettings, Assets, and CODEX.md tracked.
