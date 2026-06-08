@@ -913,3 +913,9 @@
 - Refreshed SettingsPanel layout, button colours, label sizes, and spacing.
 - Confirmed the changes keep manual-scene rules intact: no runtime level generation, runtime UI generation, runtime camera creation, or runtime environment generation was added.
 - Validation: Unity compilation reports zero errors after the cleanup.
+
+## Post-Stage Level 1 Clarity Fix
+- Completed after playtesting feedback that Level_01 was not clear to complete.
+- Diagnosis: Level_01 was technically solvable by selecting the mirror and rotating it once, but the tutorial text still said the board was already aligned. This contradicted the objective and made the first action unclear.
+- Updated Level_01 name, objective text, hint text, and tutorial messages to explicitly say: tap/select the mirror on the beam path, then press Rotate Selected once.
+- Confirmed Level_01 still uses the manually placed source, receiver, reflector, tiles, and existing UI controls. No runtime generation was added.

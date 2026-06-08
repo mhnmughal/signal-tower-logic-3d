@@ -336,7 +336,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1480678}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -953,7 +953,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 12352104}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -2663,7 +2663,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 37277451}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -20434,57 +20434,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SignalTowerLogic.Managers.SignalGridManager
   levelManager: {fileID: 533984963}
-  activeLevelConfig: {fileID: 1371136381}
+  activeLevelConfig: {fileID: 2064541269}
   tiles:
-  - {fileID: 805101692}
-  - {fileID: 747645070}
-  - {fileID: 1886374275}
-  - {fileID: 1398256610}
-  - {fileID: 1862115926}
-  - {fileID: 1866890408}
-  - {fileID: 885189412}
-  - {fileID: 2009680860}
-  - {fileID: 254923131}
-  - {fileID: 355061446}
-  - {fileID: 423321195}
-  - {fileID: 215915462}
-  - {fileID: 1304098595}
-  - {fileID: 523400595}
-  - {fileID: 382755854}
-  - {fileID: 1101004990}
-  - {fileID: 1875358641}
-  - {fileID: 1609224251}
-  - {fileID: 439985123}
-  - {fileID: 594650892}
-  - {fileID: 464876806}
-  - {fileID: 1684291165}
-  - {fileID: 1149215196}
-  - {fileID: 156644677}
-  - {fileID: 1675860418}
-  - {fileID: 1977265206}
-  - {fileID: 1055813974}
-  - {fileID: 1788874736}
-  - {fileID: 1120570535}
-  - {fileID: 1884775708}
-  - {fileID: 1737912711}
-  - {fileID: 1774723411}
-  - {fileID: 1915228397}
-  - {fileID: 216229563}
-  - {fileID: 1958698476}
-  - {fileID: 1755217067}
-  - {fileID: 1353040388}
-  - {fileID: 250530125}
-  - {fileID: 57932241}
-  - {fileID: 1690015496}
-  - {fileID: 875386655}
-  - {fileID: 1050046670}
-  - {fileID: 1560757511}
-  - {fileID: 1120026766}
-  - {fileID: 1178173718}
-  - {fileID: 2094265401}
-  - {fileID: 744908682}
-  - {fileID: 1728872045}
-  - {fileID: 977277467}
+  - {fileID: 1102598862}
+  - {fileID: 1269635562}
+  - {fileID: 394997336}
+  - {fileID: 431815060}
+  - {fileID: 359923080}
+  - {fileID: 1829126048}
+  - {fileID: 38898962}
+  - {fileID: 1772928515}
+  - {fileID: 681181934}
+  - {fileID: 996837958}
+  - {fileID: 26035075}
+  - {fileID: 693966159}
+  - {fileID: 583410861}
+  - {fileID: 1417532444}
+  - {fileID: 10816440}
 --- !u!1 &271947075
 GameObject:
   m_ObjectHideFlags: 0
@@ -22112,7 +22078,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 294178393}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -28978,7 +28944,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 373840021}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -34335,7 +34301,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446056684}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -34756,7 +34722,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 449753830}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -39285,86 +39251,46 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SignalTowerLogic.Managers.SignalBeamRenderer
   beamRenderers:
-  - {fileID: 1672473865}
-  - {fileID: 799410472}
-  - {fileID: 446056686}
-  - {fileID: 1295760662}
-  - {fileID: 2040970339}
-  - {fileID: 1283407713}
-  - {fileID: 294178395}
-  - {fileID: 1480680}
-  - {fileID: 1662705369}
-  - {fileID: 1424042352}
-  - {fileID: 1442356989}
-  - {fileID: 12352106}
-  - {fileID: 935334294}
-  - {fileID: 670358929}
-  - {fileID: 654208483}
-  - {fileID: 1652205108}
-  - {fileID: 830747675}
-  - {fileID: 1006063504}
-  - {fileID: 37277453}
-  - {fileID: 1449175460}
-  - {fileID: 961963502}
-  - {fileID: 658757302}
-  - {fileID: 373840023}
-  - {fileID: 449753832}
-  - {fileID: 1685019790}
-  - {fileID: 1393317584}
-  - {fileID: 693414859}
-  - {fileID: 1370881356}
-  - {fileID: 213351529}
-  - {fileID: 1974592121}
-  - {fileID: 1790068082}
-  - {fileID: 1520496630}
-  - {fileID: 1891706827}
-  - {fileID: 1668259449}
-  - {fileID: 1954057029}
-  - {fileID: 413556154}
-  - {fileID: 1237008589}
-  - {fileID: 2069728178}
-  - {fileID: 956999434}
-  - {fileID: 344500366}
-  - {fileID: 383025170}
-  - {fileID: 1184929465}
-  - {fileID: 2046462633}
-  - {fileID: 2046784548}
-  - {fileID: 1194521291}
-  - {fileID: 580103883}
-  - {fileID: 950473824}
-  - {fileID: 1570536946}
-  - {fileID: 1923280080}
-  - {fileID: 716575506}
-  - {fileID: 486487075}
-  - {fileID: 442937062}
-  - {fileID: 309941936}
-  - {fileID: 895509479}
-  - {fileID: 2045771281}
-  - {fileID: 1299754474}
-  - {fileID: 768695788}
-  - {fileID: 399208728}
-  - {fileID: 1135534499}
-  - {fileID: 212700310}
-  - {fileID: 1007732253}
-  - {fileID: 658403821}
-  - {fileID: 239607938}
-  - {fileID: 1305458783}
-  - {fileID: 935693843}
-  - {fileID: 979527599}
-  - {fileID: 220843427}
-  - {fileID: 1106735334}
-  - {fileID: 1443587126}
-  - {fileID: 776157168}
-  - {fileID: 237524814}
-  - {fileID: 902055414}
-  - {fileID: 1652774502}
-  - {fileID: 1323156175}
-  - {fileID: 1963580357}
-  - {fileID: 615413713}
-  - {fileID: 1548617631}
-  - {fileID: 1374503001}
-  - {fileID: 1388340937}
-  - {fileID: 1904288570}
+  - {fileID: 1296460035}
+  - {fileID: 1835260233}
+  - {fileID: 1714216454}
+  - {fileID: 1157835956}
+  - {fileID: 1036232916}
+  - {fileID: 1534724043}
+  - {fileID: 1556080242}
+  - {fileID: 1160229877}
+  - {fileID: 1514640161}
+  - {fileID: 864458888}
+  - {fileID: 698746109}
+  - {fileID: 1507382514}
+  - {fileID: 1602672094}
+  - {fileID: 287404908}
+  - {fileID: 1608904055}
+  - {fileID: 1674359456}
+  - {fileID: 2009540049}
+  - {fileID: 1710583790}
+  - {fileID: 128411222}
+  - {fileID: 1676607025}
+  - {fileID: 265530989}
+  - {fileID: 976945511}
+  - {fileID: 1118093633}
+  - {fileID: 1272246464}
+  - {fileID: 829457838}
+  - {fileID: 224311091}
+  - {fileID: 695468460}
+  - {fileID: 1333175571}
+  - {fileID: 1222543753}
+  - {fileID: 392588570}
+  - {fileID: 61647134}
+  - {fileID: 2050994697}
+  - {fileID: 996970868}
+  - {fileID: 1590252285}
+  - {fileID: 35618484}
+  - {fileID: 2141701808}
+  - {fileID: 1401346250}
+  - {fileID: 641685182}
+  - {fileID: 1951478412}
+  - {fileID: 59109665}
   red: {r: 1, g: 0.08, b: 0.06, a: 1}
   blue: {r: 0.08, g: 0.4, b: 1, a: 1}
   green: {r: 0.08, g: 1, b: 0.35, a: 1}
@@ -48599,7 +48525,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 654208481}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -49206,7 +49132,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 658757300}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -49828,7 +49754,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 670358927}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -54187,7 +54113,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 4
+  m_text: 0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -58908,7 +58834,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 799410470}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -61390,7 +61316,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 830747673}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -74012,7 +73938,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 935334292}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -76277,7 +76203,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961963500}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -80530,7 +80456,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1006063502}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -92342,7 +92268,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1157835954}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -101486,7 +101412,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1283407711}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -101961,7 +101887,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1295760660}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -102103,7 +102029,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296460033}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -117578,7 +117504,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1424042350}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -118863,7 +118789,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1442356987}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -119237,7 +119163,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1449175458}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -135039,7 +134965,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1652205106}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -136352,7 +136278,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1662705367}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -137433,7 +137359,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1672473863}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -141371,7 +141297,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714216452}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -141414,7 +141340,7 @@ LineRenderer:
   m_MaskInteraction: 0
   m_Positions:
   - {x: 0, y: 0.24, z: 0}
-  - {x: 0, y: 0.24, z: 1}
+  - {x: -1, y: 0.24, z: 0}
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 0.08
@@ -147311,10 +147237,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1650147765}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.43863937, y: 0.665}
-  m_AnchorMax: {x: 0.6496202, y: 0.9731476}
-  m_AnchoredPosition: {x: 0.42356873, y: -1.0499878}
-  m_SizeDelta: {x: -3.7707977, y: -6}
+  m_AnchorMin: {x: 0.39558363, y: 0.65500003}
+  m_AnchorMax: {x: 0.6045836, y: 0.95600003}
+  m_AnchoredPosition: {x: -0.9710083, y: -0.5}
+  m_SizeDelta: {x: 1.2292023, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1733267011
 MonoBehaviour:
@@ -156668,7 +156594,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1835260231}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -177791,7 +177717,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 4
+  m_text: 1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -184727,7 +184653,7 @@ LineRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2040970337}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -187607,19 +187533,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SignalTowerLogic.Gameplay.LevelConfig
   levelNumber: 1
-  levelName: First Signal
-  objectiveText: Rotate the mirror once to bend the red signal into the receiver.
+  levelName: First Reflection
+  objectiveText: Select the mirror, then tap Rotate Selected once to bend the red
+    signal into the receiver.
   powerBudget: 2
   actionLimit: 2
   requiredReceiverCount: 1
   star3ActionLimit: 1
   star2ActionLimit: 2
   star1ActionLimit: 2
-  hintText: Select the mirror on the signal line, then tap Rotate so it points north.
+  hintText: Tap the mirror sitting on the red beam path. Press Rotate Selected one
+    time so the mirror points the signal north into the red receiver.
   tutorialMessages:
-  - Signals travel from source towers.
-  - A matching receiver powers up when the beam reaches it.
-  - This first board is already aligned so you can see the goal.
+  - Red source towers send a beam across the grid.
+  - Receivers power up only when the matching colour reaches them.
+  - For this first puzzle, tap the mirror on the beam path to select it.
+  - Then tap Rotate Selected once. The beam will turn upward into the receiver.
   signalTiles:
   - {fileID: 1102598862}
   - {fileID: 1269635562}
